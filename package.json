@@ -1,0 +1,17 @@
+{
+  "name": "MyFirstBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.11.0",
+    "dotenv": "^4.0.0",
+    "service-now": "^1.0.1"
+  }
+}
